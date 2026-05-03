@@ -1,2 +1,25 @@
-# data-analytics-portfolio
-SQL, Python, Looker Studio projects
+# Data Analytics Portfolio
+
+## About Me
+Data Analyst with skills in SQL, Python, and Looker Studio.
+Focused on turning raw data into business insights.
+
+## Skills
+- SQL (SELECT, JOIN, GROUP BY, Subqueries, CTE)
+- Python (pandas, sqlite3)
+- Google Looker Studio (dashboards, charts)
+- Google Sheets (QUERY, XLOOKUP, Apps Script)
+
+## Projects
+
+### Project 1 — Superstore Sales Analysis
+**Client:** Mark, electronics store owner (USA)
+**Tools:** Python, SQL, Looker Studio
+**Dataset:** 9800 rows, 4 years of sales data
+
+**Business questions answered:**
+1. Top 5 states by revenue → California leads ($446K)
+2. Most popular shipping method → Standard Class (60%)
+3. Sales growth over years → +50% from 2015 to 2018
+
+**Dashboard:** Created in Looker Studio with 3 charts

@@ -23,3 +23,7 @@ Focused on turning raw data into business insights.
 3. Sales growth over years → +50% from 2015 to 2018
 
 **Dashboard:** Created in Looker Studio with 3 charts
+
+**Key Insights:**
+- November is the most profitable month
+- Recommendation: increase marketing budget in California and New York

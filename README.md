@@ -27,3 +27,20 @@ Focused on turning raw data into business insights.
 **Key Insights:**
 - November is the most profitable month
 - Recommendation: increase marketing budget in California and New York
+
+- ### Project 2 — BMW Car Sales Analysis
+**Client:** John, BMW dealership owner (UK)
+**Tools:** Python, SQL, Looker Studio
+**Dataset:** 10781 rows, BMW sales data
+
+**Business questions answered:**
+1. Top 5 best-selling models → 3 Series leads (2443 sales)
+2. Top 5 models by avg price → X7 most expensive (£69,842)
+3. Transmission preference → Semi-Auto most popular (43%)
+4. Top Semi-Auto models → 3 Series dominates
+
+**Key Insights:**
+- 3 Series is the most popular but X7 generates most revenue per sale
+- Semi-Auto is preferred by 43% of buyers
+- Recommendation: stock more 3 Series Semi-Auto for volume sales
+

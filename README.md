@@ -28,7 +28,7 @@ Focused on turning raw data into business insights.
 - November is the most profitable month
 - Recommendation: increase marketing budget in California and New York
 
-- ### Project 2 — BMW Car Sales Analysis
+### Project 2 — BMW Car Sales Analysis
 **Client:** John, BMW dealership owner (UK)
 **Tools:** Python, SQL, Looker Studio
 **Dataset:** 10781 rows, BMW sales data

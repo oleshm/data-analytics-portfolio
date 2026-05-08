@@ -44,3 +44,19 @@ Focused on turning raw data into business insights.
 - Semi-Auto is preferred by 43% of buyers
 - Recommendation: stock more 3 Series Semi-Auto for volume sales
 
+### Project 3 — HR Employee Analytics
+**Client:** Sara, HR Director at IT company
+**Tools:** Python, SQL, Looker Studio
+**Dataset:** 4327 employees, IBM HR data
+
+**Business questions answered:**
+1. Average salary by department → R&D leads ($67,240)
+2. Total employee turnover → 701 resignations (16%)
+3. Turnover by department → R&D has 64% of all resignations
+4. Job satisfaction distribution → 61% are highly satisfied
+5. Job satisfaction vs turnover → Surprising: High satisfaction ≠ low turnover
+
+**Key Insights:**
+- R&D pays most but loses most employees
+- Satisfaction alone doesn't prevent resignations
+- Recommendation: investigate workload and career growth in R&D

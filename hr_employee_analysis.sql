@@ -4,7 +4,8 @@
 -- 1. Average Salary by Department
 SELECT Department, AVG(MonthlyIncome) AS avg_salary
 FROM employees
-GROUP BY avg_salary DESC;
+GROUP BY Department
+ORDER BY avg_salary DESC;
 
 --2. Total Employee Turnover
 SELECT COUNT(Attrition) AS num_resigned
@@ -27,6 +28,6 @@ ORDER BY total DESC;
 -- 5. Job Satisfaction vs Turnover
 SELECT JobSatisfaction_Label, COUNT(*) AS resigned
 FROM employees
-Where Attrition = 'Yes'
+WHERE Attrition = 'Yes'
 GROUP BY JobSatisfaction_Label
 ORDER BY resigned DESC;

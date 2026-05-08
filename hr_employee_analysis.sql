@@ -20,7 +20,7 @@ GROUP BY Department
 ORDER BY resigned DESC;
 
 -- 4. Job Satisfaction Distribution
-SELECT JobSatisfaction_Label, COUNT(JobSatisfactio_Label) AS total
+SELECT JobSatisfaction_Label, COUNT(JobSatisfaction_Label) AS total
 FROM employees
 GROUP BY JobSatisfaction_Label
 ORDER BY total DESC;
